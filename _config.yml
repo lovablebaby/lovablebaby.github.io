@@ -15,10 +15,10 @@ minimal_mistakes_skin    : "default" #"air","aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "아무거나 막올리는 블로그"
+title                    : "test page"
 title_separator          : "-"
 name                     : "Yeoni"
-description              : "데이터마이닝, 머신러닝, 자연어에 관심많습니다!"
+description              : "You have to do it today"
 url                      : "https://lovablebaby.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
