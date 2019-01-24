@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "데이터로 오래오래 먹고살기"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "며니며니"
+description              : "공부 및 신변잡기 블로그"
 url                      : "https://lovablebaby.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
